@@ -93,4 +93,5 @@ May - August 2024
 ---
 
 There are more feature such as chatbot and login, register pages to be implemented soon... 
+
 👨‍💻 Developed by **Josiah Lam** | 🚀 Happy coding!
