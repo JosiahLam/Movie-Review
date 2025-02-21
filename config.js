@@ -1,6 +1,6 @@
 let config = {
   host: 'localhost',
-  user: '{clientID}',
+  user: {clientID},
   port: '3306',
   password: {clientSecret},
   database: 'j23lam'
