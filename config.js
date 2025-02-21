@@ -1,8 +1,8 @@
 let config = {
   host: 'localhost',
-  user: 'j23lam',
+  user: '{clientID}',
   port: '3306',
-  password: 'MSCI245-student',
+  password: {clientSecret},
   database: 'j23lam'
 };
  
