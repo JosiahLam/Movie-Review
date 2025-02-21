@@ -4,7 +4,7 @@
 This is my MSE245 (Databases and Software Design) course project. This is the final implementation of a **React / Node.js / MySQL** application for browsing, searching, and reviewing movies. The app allows users to explore movies, submit reviews, and interact with a personalized page featuring additional functionalities. This is my first ever Full-Stack Application, there more new and innovative implementation I want to add into this project. 
 
 ## 📅 Project Duration
-** May - August 2024
+May - August 2024
 
 ## 📂 Project Structure
 ```
